@@ -14,11 +14,9 @@ to access the site via
 
 
 The nomination data for this site is from:
-* [CBC local candiate listings](https://www.cbc.ca/news/canada/kitchener-waterloo/ontario-election-waterloo-region-guelph-wellington-candidates-1.7443625)
-* [Elections Ontairo](https://voterinformationservice.elections.on.ca/en/election/search?mode=electoralDistrict)
-* [Candidates of the 2025 Ontario general election](https://en.wikipedia.org/wiki/Candidates_of_the_2025_Ontario_general_election)(Wikipedia)
-* https://www.thefoodbank.ca/2025/02/your-guide-to-making-food-security-a-priority-this-provincial-election/
-* https://poliblog.jonkman.ca/Poliblog-Elections/2025-02-27-Provincial-Election/
+* [CBC local candiate listings](https://www.cbc.ca/news/canada/kitchener-waterloo/federal-election-candidates-waterloo-region-guelph-wellington-1.7486384)
+* [Candidates of the 2025 Canadian federal election](https://en.wikipedia.org/wiki/Candidates_of_the_2025_Canadian_federal_election)(Wikipedia)
+* https://poliblog.jonkman.ca/Poliblog-Elections/2025-Federal-Election/index.html
 
 Other data for this site comes in the form of CSV files stored in the git
 repository.

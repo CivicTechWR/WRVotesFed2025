@@ -1,20 +1,20 @@
 theme: jekyll-theme-slate
 title: Waterloo Region Votes
-description: Information About the 2025 Provincial Election
+description: Information About the 2025 Federal Election
 show_downloads: false
 plugins:
   - jekyll-sitemap
 
-# election_type: Federal
-election_type: Provincial
+election_type: Federal
+# election_type: Provincial
 # election_type: Municipal
 
-election_over: true
+election_over: false
 
 # Use ISO notation. This is also used by countdown.js
-election_date: "2025-02-27T09:00"
+election_date: "2025-04-28T09:00"
 
-repository_name: WRVotesProv2025
+repository_name: WRVotesFed2025
 
 defaults:
   -

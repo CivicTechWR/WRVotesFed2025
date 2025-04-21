@@ -5,18 +5,18 @@ layout: page
 
 # Election Resources
 
-## Elections Ontario
+## Elections Canada
 
-[Elections Ontario](https://www.elections.on.ca/) is the authoritative site for
+[Elections Canada](https://www.elections.ca/home.aspx) is the authoritative site for
 understanding how the election is set up and how you participate. Some helpful
 pages include:
 
-- [Find your riding](https://voterinformationservice.elections.on.ca/en/election/search?mode=electoralDistrict)
-- [Check your voter registration](https://voterinformationservice.elections.on.ca/en/election/search?mode=electoralDistrict)
+- [Find your riding](https://www.elections.ca/Scripts/vis/FindED?L=e&QID=-1&PAGEID=20)
+- [Check your voter registration](https://www.elections.ca/content2.aspx?section=reg&document=index&lang=e)
 - [Ways to vote](https://www.elections.ca/content2.aspx?section=vote&document=index&lang=e)
-- [ID requirements](https://www.elections.on.ca/en/voting-in-ontario/id-to-vote-in-provincial-elections.html)
-- [Accessible voting tools and services](https://www.elections.on.ca/en/voting-in-ontario/accessible-voting.html)
-- [Frequently Asked Questions](https://www.elections.on.ca/en/voting-in-ontario/frequently-asked-questions.html)
+- [ID requirements](https://www.elections.ca/content2.aspx?section=id&document=index&lang=e)
+- [Accessible voting tools and services](https://www.elections.ca/content2.aspx?section=acc&document=index&lang=e)
+- [Frequently Asked Questions](https://www.elections.ca/content2.aspx?section=faq&document=index&lang=e)
 
 ## Other Resources
 
