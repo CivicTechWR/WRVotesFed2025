@@ -26,6 +26,31 @@ use-leaflet: true
       </div>
     <!--Today is Election Day-->
     </div>
+    <hr />
+    <p>
+      The Waterloo Region Votes team has not collected the nominee information for
+      this election, but the below links list all of the canadiates who are running
+      in the Region:
+    </p>
+    <ul>
+      <li>
+        <a href="https://www.cbc.ca/news/canada/kitchener-waterloo/federal-election-candidates-waterloo-region-guelph-wellington-1.7486384">
+          CBC federal candidates in Waterloo Region, Guelph and Wellington County
+        </a>
+      </li>
+      <li>
+        <a href="https://poliblog.jonkman.ca/Poliblog-Elections/2025-Federal-Election/index.html">
+          Bob Jonkman's federal candidate links for Waterloo Region and Brantford-Brant South-Six Nations
+        </a>
+      </li>
+      <li>
+        <a href="https://www.elections.ca/home.aspx">
+          Elections Canada
+        </a>
+      </li>
+    </ul>
+
+    <!--
     <div class="content" data-aos="fade-up">
      <p>
      Type your address to identify your riding, or click your
@@ -36,6 +61,7 @@ use-leaflet: true
      <p><strong>Note:</strong> The map loads more slowly than the rest
      of the page, so be patient, or use the <a href="/ridings/">Riding listing</a>.</p>
     </div>
+    -->
   </article>
 </section>
 

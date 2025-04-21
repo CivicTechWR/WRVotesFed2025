@@ -12,6 +12,7 @@ From: https://christianspecht.de/2014/06/18/building-a-pseudo-dynamic-tree-menu-
         </a>
       </li>
 
+      <!--
       {% if site.election_over %}
         <li>
           {% assign url = '/winners' %}
@@ -34,6 +35,7 @@ From: https://christianspecht.de/2014/06/18/building-a-pseudo-dynamic-tree-menu-
           </a>
         {% endif %}
       </li>
+      -->
 
       <li>
         {% assign url = '/resources/' %}
@@ -42,12 +44,14 @@ From: https://christianspecht.de/2014/06/18/building-a-pseudo-dynamic-tree-menu-
         </a>
       </li>
 
+      <!--
       <li>
         {% assign url = '/events' %}
         <a href="{{ site.baseurl }}{{ url }}" {%- if navurl == url %} class="current"{% endif -%} >
           Events
         </a>
       </li>
+      -->
 
       <li>
         {% assign url = '/about' %}
